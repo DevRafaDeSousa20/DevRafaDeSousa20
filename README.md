@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Rafaela Sousa | DevRafaDeSousa20</h1>
 
-<!--
-**DevRafaDeSousa20/DevRafaDeSousa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>"Resiliência não é só parte da minha história. É a base do meu código."</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src=" <img width="1536" height="1024" alt="RS" src="https://github.com/user-attachments/assets/915eb8dc-2963-4411-b9a2-996db95c73e8" />
+ " alt="Banner Rafaela Sousa" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 Sobre Mim
+
+Olá! Sou a Rafaela Sousa, desenvolvedora web em constante evolução.  
+Transformo ideias em interfaces inteligentes, com código limpo, design imersivo e contrato transparente.  
+Atualmente estou aprofundando meus conhecimentos em **Python, Front-end Web, Gimp e Linux**.
+
+---
+
+### 🛠️ Tecnologias que uso com frequência
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 Status dos Projetos
+
+- 🎯 Portfólio Profissional: [Acesse aqui](https://desenvolvedorarafaelasousa20.netlify.app)
+- 🧠 Em andamento: Projeto de Dashboard Inteligente para Investimentos
+- 🚀 Em estudo: Backend com Python e Automação de dados
+
+---
+
+### 🎯 Diferenciais
+
+✅ Interface com foco em usabilidade e responsividade  
+✅ Projetos entregues com contrato claro e personalizado  
+✅ Versatilidade criativa com conhecimento em design, lógica e negócios  
+✅ Atendimento humanizado, seguro e orientado por dados
+
+---
+
+### 📬 Contato
+
+📩 E-mail: [contato.devrafaelasousa20@gmail.com](mailto:contato.devrafaelasousa20@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/devrafaelasousa21](https://www.linkedin.com/in/devrafaelasousa21)  
+🌐 Portfólio: [desenvolvedorarafaelasousa20.netlify.app](https://desenvolvedorarafaelasousa20.netlify.app)
+
+---
+
+<p align="center">✨ Obrigada por visitar meu espaço no GitHub! ✨</p>
