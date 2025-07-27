@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src=" <img width="1536" height="1024" alt="RS" src="https://github.com/user-attachments/assets/915eb8dc-2963-4411-b9a2-996db95c73e8" />
- " alt="Banner Rafaela Sousa" />
+  <img src="LINK-DO-BANNER" alt="Banner Rafaela Sousa" />
 </p>
 
 ---
