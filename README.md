@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="[LINK-DO-BANNER](https://github.com/DevRafaDeSousa20/DevRafaDeSousa20/blob/main/RS.png)" alt="Banner Rafaela Sousa" />
+  <img src="https://github.com/DevRafaDeSousa20/DevRafaDeSousa20/blob/main/RS.png?raw=true" alt="Banner Rafaela Sousa" />
 </p>
+
 
 ---
 
