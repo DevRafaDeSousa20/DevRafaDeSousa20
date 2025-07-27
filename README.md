@@ -8,6 +8,7 @@
   <img src="https://github.com/DevRafaDeSousa20/DevRafaDeSousa20/blob/main/RS.png?raw=true" alt="Banner Rafaela Sousa" />
 </p>
 
+
 ---
 
 ### 👩‍💻 Sobre Mim
@@ -15,22 +16,6 @@
 Olá! Sou a Rafaela Sousa, desenvolvedora web em constante evolução.  
 Transformo ideias em interfaces inteligentes, com código limpo, design imersivo e contrato transparente.  
 Atualmente estou aprofundando meus conhecimentos em **Python, Front-end Web, Gimp e Linux**.
-
----
-
-### 🔥 Atividades em Destaque
-
-- 📌 **Portfólio Profissional**  
-  Meu portfólio foi 100% idealizado e desenvolvido por mim com foco em experiência do usuário, responsividade e automação de orçamentos.  
-  [🔗 Acesse aqui](https://desenvolvedorarafaelasousa20.netlify.app)
-
-- 📌 **Simulador de Orçamento Interativo**  
-  Um diferencial do meu portfólio, pensado para facilitar a jornada do cliente desde o primeiro contato.  
-  💼 Inclui estimativa de valor, tipo de serviço e tempo de execução, totalmente integrado via formulário inteligente.
-
-- 📌 **Dashboard de Investimentos (Em desenvolvimento)**  
-  Um projeto de automação de análise de investimentos, com gráficos personalizados e inteligência orientada por dados.  
-  💡 Visa ajudar usuários a entenderem ganhos, tendências e sugerir corretoras com base em perfis.
 
 ---
 
@@ -45,12 +30,11 @@ Atualmente estou aprofundando meus conhecimentos em **Python, Front-end Web, Gim
 
 ---
 
-### 🚀 Status dos Projetos
+### 📊 Status dos Projetos
 
 - 🎯 Portfólio Profissional: [Acesse aqui](https://desenvolvedorarafaelasousa20.netlify.app)
 - 🧠 Em andamento: Projeto de Dashboard Inteligente para Investimentos
-- ⚙️ Automatização de Formulários e Orçamentos com JavaScript e EmailJS
-- 📚 Estudo contínuo: Python, Web Responsiva e Boas Práticas de UI/UX
+- 🚀 Em estudo: Backend com Python e Automação de dados
 
 ---
 
@@ -59,8 +43,24 @@ Atualmente estou aprofundando meus conhecimentos em **Python, Front-end Web, Gim
 ✅ Interface com foco em usabilidade e responsividade  
 ✅ Projetos entregues com contrato claro e personalizado  
 ✅ Versatilidade criativa com conhecimento em design, lógica e negócios  
-✅ Atendimento humanizado, seguro e orientado por dados  
-✅ Autonomia e domínio nas etapas de planejamento, desenvolvimento e entrega
+✅ Atendimento humanizado, seguro e orientado por dados
+
+---
+
+### 📈 GitHub Stats & Atividade
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevRafaDeSousa20&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafaDeSousa20&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevRafaDeSousa20&theme=radical&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevRafaDeSousa20&theme=radical&row=1&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
